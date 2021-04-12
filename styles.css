@@ -42,7 +42,7 @@
 }
 
 .top{background-color: #ffc107;}
-.jumbotron{margin-top: 2%;  color:#0b5591;}
+.jumbotron{margin-top: 2%;  color:#fff;}
 .jumbotron p{margin-bottom: 2%;}
 
 .col h3 a:hover{color:red;}
@@ -90,7 +90,7 @@
 /* Extra small devices (phones, 600px and down) */
 @media only screen and (max-width: 600px) {
 .blockquote {padding: 3.8% 2% 2% 30%;font-size: 2rem;}
-
+}
 
 /* Small devices (portrait tablets and large phones, 600px and up) */
 @media only screen and (min-width: 600px) {
