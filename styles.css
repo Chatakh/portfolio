@@ -73,6 +73,8 @@
 
 .video{width: 100%; height: 100%;}
 
+.h3{padding-top:2%;}
+
 .foot{margin-top:2%; padding-top: 3%;  color:gray;}
 .foot-2{margin-top:4%; margin-bottom: -3%; padding-top: 3%; padding-bottom: 4%; color:gray;}
 .footer-text{text-align: center; padding-bottom: 4%;}
@@ -104,46 +106,6 @@ input text {font-size:1.2em;}
 @media only screen and (max-width: 600px) {
 
 .blockquote {padding: 3.8% 2% 2% 30%;font-size: 2rem;}
-
-
-/*  .container-1 {
-    position: absolute;
-    width: 100%;
-  }
-
-  .image {
-    display: block;
-    width: 100%;
-    height: auto;
-  }
-
-  .overlay {
-    position: absolute;
-    top: 0;
-    bottom: 0;
-    left: 0;
-    right: 0;
-    height: 100%;
-    width: 100%;
-    background-color: #0b5591;
-    background: red;
-  }
-
-  .text {
-    color: white;
-    font-size: 15px;
-    position: absolute;
-    top: 0%;
-    left: 0%;
-    -webkit-transform: translate(-50%, -50%);
-    -ms-transform: translate(-50%, -50%);
-    transform: translate(-50%, -50%);
-    text-align: center;
-  }
-
-  .col{width: 100%; height: 100%; margin: 0px; padding: 1%;}
-
-  .col-sm-4{width: 100%;}*/
 }
 
 /* Small devices (portrait tablets and large phones, 600px and up) */
