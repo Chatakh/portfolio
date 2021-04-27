@@ -46,7 +46,7 @@
 .jumbotron{margin-top: 2%;  color:#fff;}
 .jumbotron p{margin-bottom: 2%;}
 
-.col h3 a:hover{color:red;}
+h3 a:hover{color:red;}
 
 h3{font-size: 1.50rem; padding-top: 3%; padding-bottom: 2%;}
 
