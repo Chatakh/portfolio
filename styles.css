@@ -48,6 +48,8 @@
 
 .col h3 a:hover{color:red;}
 
+h3{font-size: 1.50rem; padding-top: 3%; padding-bottom: 2%;}
+
 .head{padding-top:2%; padding-bottom:2%; text-align: center;}
 
 .btn{position:relative; margin-top: 5%;}
