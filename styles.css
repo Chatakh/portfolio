@@ -1,6 +1,6 @@
 
-.navbar-brand{padding-left: 2%; padding-right: 15%; font-size: 2rem;}
-/*.navbar-brand{padding-left: 4%; padding-right: 5%; margin-right: -5%; font-size: 2rem;}*/
+.navbar-brand{padding-left: 2%; padding-right: 15%; margin-right: -5%; font-size: 2rem;}
+/*.navbar-brand{padding-left: 4%; padding-right: 5%;  font-size: 2rem;}*/
 
 .container-1 {
   position: relative;
@@ -86,7 +86,7 @@
 
 .bt{padding-right: 2%;}
 .bt:hover{color:#ffc107;}
-.navbar-brand{margin-right: -10%;}
+
 
 #button{
   background-color: #ffc107;;
