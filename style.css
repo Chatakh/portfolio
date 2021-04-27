@@ -1,0 +1,247 @@
+body {
+    background-color: #fff;
+    margin: 0;
+  }
+  
+  img{
+    width:15%;
+    height:100%;
+    margin: 12% 8% -22% 42%;
+  }
+
+#header{
+  height:60px;
+  color: black;
+  position:relative;
+  transition: box-shadow 250ms;
+  min-width: auto;
+  background-color:#f4f4f5;
+}
+
+#header h3{
+  width:100%; 
+  height:45px; 
+  background-color: rgb(218, 214, 214);
+  padding:4% 2% 1% 4%;
+  color:brown;
+  margin: -2% 0% -5% 0%;
+}
+
+ul{
+  width:100%; 
+  height: 48px; 
+  margin: -3% 1% 7% 65%; 
+  display: inline-block;
+  line-height: 10px;
+  vertical-align: middle;
+  text-decoration: none;
+}
+
+.li{
+  text-decoration: none; 
+  padding-right: 20px; 
+  list-style: none;
+  display: inline;
+  width:100%;
+  line-height: 160px;
+  
+}
+.li a:active{list-style:square;}
+
+.li a:hover{color:brown;}
+
+.li a{color: #222; text-decoration: none; }
+
+#form{margin: 12% 15% 22% 35%;}
+
+#text{
+  width:400px; 
+  height:35px; 
+  border-radius: 24px;
+  border: 1px solid #a5a7aa; 
+  float:left; 
+  padding-left:3%;
+}
+.wraper{
+  color: transparent;
+  flex: 100%;
+  white-space: pre;
+  padding-top: 7%;
+  z-index: 0;
+  height: 100%;
+  font-size: 16px;
+  font-family: arial,sans-serif;
+  
+}
+  
+#search_field{
+  background-color: #f8f9fa;
+  border: 1px solid #f8f9fa;
+  color: #3c4043;
+  border-radius: 4px;
+  margin: 5% 1% auto -52%;
+  padding: 0 16px;
+  line-height: 27px;
+  height: 36px;
+  min-width: 54px;
+  text-align: center;
+  cursor: pointer;
+  user-select: none;
+  float: left;
+}
+
+#ImgSearch_btn{
+  background-color: #f8f9fa;
+  border: 1px solid #f8f9fa;
+  color: #3c4043;
+  border-radius: 4px;
+  margin: 3% 20% auto 20%;
+  padding: 0 16px;
+  line-height: 27px;
+  height: 36px;
+  min-width: 54px;
+  text-align: center;
+  cursor: pointer;
+  user-select: none;
+  float: left;
+}
+
+input[type="submit"], .Feel_luck{
+  background-color: #f8f9fa;
+  border: 1px solid #f8f9fa;
+  color: #3c4043;
+  border-radius: 4px;
+  font-family: arial,sans-serif;
+  font-size: 14px;
+  margin: 11px 4px;
+  padding: 0 16px;
+  line-height: 27px;
+  height: 36px;
+  min-width: 54px;
+  text-align: center;
+  cursor: pointer;
+  user-select: none;
+  float: left;
+  margin: -0.3% 5% auto 28%;
+  
+}
+
+#button:hover{color:brown;}
+
+.Feel_luck {
+  padding-top: 2px;
+  top: 53px;
+  z-index: 0;
+  height: 40px;
+  float:left;
+  background-color: #f8f9fa;
+  border: 1px solid #f8f9fa;
+  color:#3c4043;
+}
+
+.container{width: 100%; color: #222; margin-top: 19%;}
+
+.head-1{
+  float:left; 
+  padding-left: 3%; 
+  padding-bottom: 1%; 
+  margin-top: -3.4%;
+}
+h3{
+  float:left; 
+  color:brown;
+  position:absolute;
+  margin-top:8%; 
+  padding-left: 3%;
+}
+#btn{
+  width:15%; 
+  height:4.5%; 
+  position: absolute;
+  padding-top: 0.5%; padding-bottom:2.5%;
+  margin: 12% 5% 3% -36%;
+  font-size: 16px;
+  background-color: blue; color:#fff;
+}
+
+#btn a{color:#fff; text-decoration: none;}
+
+
+.label{
+  width:17%;
+  height:100%;
+  float:left;
+  padding-left:1%;
+  margin-left: 3%;
+  min-width: 167px;
+  display: inline-block;
+  font-size: 13px;
+  line-height: 38px;
+  vertical-align: middle;
+}
+
+.input-text{width:70%; height:100%; float:left; margin-left: 0%;}
+
+.one{
+  width: 50%;
+  height:25px;
+  float: left;
+  display: inline-block;
+  vertical-align: middle;
+  border-radius: 1px;
+  border: 1px solid #d9d9d9;
+  border-top: 1px solid #c0c0c0;
+  font-size: 13px;
+  padding: 1px 8px;
+  text-align: left;
+  }
+
+.label2{ 
+  
+ }
+.two{
+  width: 50%;
+  height: 25px;
+  float: left;
+  display: inline-block;
+  vertical-align: middle;
+  margin-top: 1%;
+  border-radius: 1px;
+  border: 1px solid #d9d9d9;
+  border-top: 1px solid #c0c0c0;
+  font-size: 13px;
+  padding: 1px 8px;
+  text-align: left;
+  
+}
+
+  
+.three{
+  width: 50%;
+  height: 25px;
+  float: left;
+  display: inline-block;
+  vertical-align: middle;
+  margin-top: 1%;
+  border-radius: 1px;
+  border: 1px solid #d9d9d9;
+  border-top: 1px solid #c0c0c0;
+  font-size: 13px;
+  padding: 1px 8px;
+  text-align: left;
+}
+
+.four{
+  width: 50%;
+  height: 25px;
+  float: left;
+  display: inline-block;
+  vertical-align: middle;
+  margin-top: 1%;
+  border-radius: 1px;
+  border: 1px solid #d9d9d9;
+  border-top: 1px solid #c0c0c0;
+  font-size: 13px;
+  padding: 1px 8px;
+  text-align: left;
+}
