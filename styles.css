@@ -1,5 +1,5 @@
 
-.navbar-brand{padding-left: 2%; padding-right: 10%; margin-right: -9%; font-size: 2rem;}
+.navbar-brand{padding-left: 2%; padding-right: 20%; margin-right: -9%; font-size: 2rem;}
 
 .container-1 {
   position: relative;
@@ -106,6 +106,7 @@ input text {font-size:1.2em;}
 @media only screen and (max-width: 600px) {
 
 .blockquote {padding: 3.8% 2% 2% 30%;font-size: 2rem;}
+.navbar-brand{padding-left: 2%; padding-right: 10%; margin-right: -9%; font-size: 1.4rem;}
 }
 
 /* Small devices (portrait tablets and large phones, 600px and up) */
