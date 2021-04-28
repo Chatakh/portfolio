@@ -1,4 +1,4 @@
-
+body{font-family: 'Montserrat', sans-serif; background-color: #e2e6d6;}
 .navbar-brand{padding-left: 2%; padding-right: 20%; margin-right: -15%; font-size: 2rem;}
 .navbar-nav{margin-left: 10%;}
 
@@ -23,7 +23,7 @@
   width: 100%;
   opacity: 0;
   transition: .5s ease;
-  background-color: #0b5591;
+  background-color: #484745; 
 }
 
 .container-1:hover .overlay {
@@ -43,18 +43,19 @@
 }
 
 .top{background-color: #ffc107;}
-.jumbotron{margin-top: 2%;  color:#fff;}
-.jumbotron p{margin-bottom: 2%;}
+.jumbotron{margin-top: 2%;  color:#fff; font-weight: 600; font-size: 1.10rem;}
+.jumbotron p{margin-bottom: 2%; font-size: 1rem;}
 
 h3 a:hover{color:red;}
 
 h3{font-size: 1.50rem; padding-top: 3%; padding-bottom: 2%;}
 
-.head{padding-top:2%; padding-bottom:2%; text-align: center;}
+.head{padding-top:2%; padding-bottom:2%; text-align: center; font-size: 2rem; font-weight: 600;}
 
-.btn{position:relative; margin-top: 5%;}
-.btn a{color:#fff;}
-.btn a:hover{color:#0b5591;}
+
+.btn{position:relative; margin-top: 5%;background-color: #ffc107; font-weight:}
+.btn a{color: #000; font-weight: }
+.btn a:hover{color:#0b5591; background-color: #e2e6d6; font-weight:}
 
 .row{margin: 2%; background-color:#0b5591; color:#fff; }
 
