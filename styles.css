@@ -45,7 +45,8 @@ body{font-family: 'Montserrat', sans-serif; background-color: #e2e6d6;}
   text-align: center;
 }
 
-.top{background-color: #ffc107;}
+/*.top{background-color: #ffc107;}*/
+.top{background-color::#2f2323);
 .jumbotron{margin-top: 2%;  color:#fff; font-weight: 600; font-size: 1.10rem;}
 .jumbotron p{margin-bottom: 2%; font-size: 1rem;}
 
@@ -138,3 +139,7 @@ input text {font-size:1.2em;}
 @media only screen and (min-width: 1200px) {
   .blockquote {padding: 3.8% 2% 2% 30%;font-size: 2rem;}
 }
+.navbar-dark .navbar-brand {
+    color: #ffc107;
+}
+.bt{color:#fec109;}
