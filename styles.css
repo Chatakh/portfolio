@@ -143,7 +143,5 @@ input text {font-size:1.2em;}
     color: #ffc107;
 }
 .aboutPerson{
-  padding:9 15 9 15%;
-  text-align: center;
- 
+  padding:5 15 5 15%; 
 }
