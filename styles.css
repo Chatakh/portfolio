@@ -142,4 +142,8 @@ input text {font-size:1.2em;}
 .navbar-dark .navbar-brand {
     color: #ffc107;
 }
-.aboutPerson{padding:15%;text-align: center;color:gray;}
+.aboutPerson{
+  padding:15%;
+  text-align: center;
+  color:gray;
+}
