@@ -45,10 +45,8 @@ body{font-family: 'Montserrat', sans-serif; background-color: #e2e6d6;}
   text-align: center;
 }
 
-/*.top{background-color: #ffc107;}*/
-.top{
-  background-color:#333;
-}
+.top{background-color: #ffc107;}
+
 .jumbotron{margin-top: 2%;  color:#fff; font-weight: 600; font-size: 1.10rem;}
 .jumbotron p{margin-bottom: 2%; font-size: 1rem;}
 
@@ -144,10 +142,4 @@ input text {font-size:1.2em;}
 .navbar-dark .navbar-brand {
     color: #ffc107;
 }
-/*
-.bt{
-  color:#fec109;
-  }
-  .aboutPerson{
-    margin:5%;text-align: center;
-  }*/
+
