@@ -48,7 +48,7 @@ body{font-family: 'Montserrat', sans-serif; background-color: #e2e6d6;}
 /*.top{background-color: #ffc107;}*/
 .top{background-color: #333;}
 
-.jumbotron{margin-top: 2%;  color:#fff; font-weight: 600; font-size: 1.10rem;}
+.jumbotron{margin-top: 2%;  padding-bottom: 1.5%; color:#fff; font-weight: 600; font-size: 1.10rem;}
 .jumbotron p{margin-bottom: 2%; font-size: 1rem;}
 
 h3 a:hover{color:red;}
