@@ -143,4 +143,4 @@ input text {font-size:1.2em;}
 .navbar-dark .navbar-brand {
     color: #ffc107;
 }
-#spTitlebar{text-align:center; margin-bottom:0px; padding-top:1%; padding-bottom:1%;}
+#spTitlebar{margin-bottom:0px; padding:1% 5% 1% 5%;}
