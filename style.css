@@ -44,7 +44,7 @@ ul{
   display: inline;
   width:100%;
   line-height: 160px;
-  
+  color: #ffffff;
 }
 .li a:active{list-style:square;}
 
