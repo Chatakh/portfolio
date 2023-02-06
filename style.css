@@ -16,6 +16,7 @@ body {
   transition: box-shadow 250ms;
   min-width: auto;
   background-color:#f4f4f5;
+  color: #ffffff;
 }
 
 #header h3{
@@ -45,7 +46,7 @@ ul{
   width:100%;
   line-height: 160px;
 }
-.li a:active{list-style:square; color: #ffffff;}
+.li a:active{list-style:square;}
 
 .li a:hover{color:brown;}
 
