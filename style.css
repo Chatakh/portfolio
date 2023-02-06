@@ -16,7 +16,6 @@ body {
   transition: box-shadow 250ms;
   min-width: auto;
   background-color:#f4f4f5;
-  color: #ffffff;
 }
 
 #header h3{
@@ -50,7 +49,7 @@ ul{
 
 .li a:hover{color:brown;}
 
-.li a{color: #fff; text-decoration: none; }
+.li a{color: #222; text-decoration: none; }
 
 #form{margin: 12% 15% 22% 35%;}
 
@@ -245,3 +244,4 @@ h3{
   padding: 1px 8px;
   text-align: left;
 }
+ul li{color: #ffffff;}
