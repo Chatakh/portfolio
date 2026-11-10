@@ -184,7 +184,7 @@ footer p:hover{font-weight: bold;}
 .chat-input button {
   width: 60px;
   padding: 10px;
-  background: #098b97  /*#6c5ce7*/;
+  background: #098b97;
   color: white;
   border: none;
   cursor: pointer;
